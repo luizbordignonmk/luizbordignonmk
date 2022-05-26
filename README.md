@@ -12,7 +12,7 @@
   <img align="center" alt="luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="170" style="border-radius:80px;" src="https://github.com/luizbordignonmk/img/blob/main/a2b3c919b3e2a070b52cb1e6b14b3fc9.jpg">
+  <img align="right" alt="luiz-pic" height="170" style="border-radius:80px;" src="https://github.com/luizbordignonmk/img/blob/main/a2b3c919b3e2a070b52cb1e6b14b3fc9.jpg">
 </div>
   
   ##
