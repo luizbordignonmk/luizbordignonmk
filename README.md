@@ -1,4 +1,6 @@
-## Olá eu sou o Luiz Bordignon - BLENCO!
+##Olá, eu sou o Luiz Bordignon.
+
+Co-founder da BLENCO — Infraestrutura de Agentes de IA para operações comerciais.
 # BLENCO
 
 Infraestrutura de Agentes de IA para operações comerciais.
