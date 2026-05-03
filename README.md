@@ -78,3 +78,20 @@ Toda a inteligência vive fora dele.
 ## 📈 Status
 
 Em produção com evolução contínua.
+
+---
+
+## 🚀 Visão
+
+Estamos construindo uma nova camada para operações comerciais:
+
+Onde atendimento, vendas e follow-up não dependem de pessoas,  
+mas de sistemas estruturados que operam com consistência.
+
+---
+
+## 📬 Contato
+
+Se quiser entender como aplicar isso na sua operação:
+
+(https://www.linkedin.com/in/luiz-gustavo-bordignon-lima-alves-384676155/)
